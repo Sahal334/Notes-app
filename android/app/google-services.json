@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705185112255",
+    "project_id": "notes-app-be0d5",
+    "storage_bucket": "notes-app-be0d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705185112255:android:3526cc5787a1b3fe35a60a",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4Lp0DVL8zMm43t0iPcTk1gObCGOxhAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
